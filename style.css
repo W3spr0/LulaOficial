@@ -117,6 +117,9 @@ footer{
         display: block;
         width: auto;
     }
+    .postagem{
+        display: block;
+    }
     .postagem-img img{
         width: 100%;
         height: auto;
