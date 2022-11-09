@@ -110,19 +110,21 @@ footer{
     font-size:10px;
 }
 @media screen and (max-width: 700px){
+    .container{
+        padding: 0;
+    }
     .noticias{
         display: block;
+        width: auto;
     }
     .container-right{
         display: none;
-    }
-    .noticias{
         width: auto;
     }
     .container{
         padding: 1px;
     }
-    footer{
+    footer {
         position: relative;
     }
     .postagem-img img{
